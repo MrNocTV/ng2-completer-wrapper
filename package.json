@@ -1,6 +1,6 @@
 {
   "name": "ng2-completer-wrapper",
-  "version": "10.0.0",
+  "version": "10.0.1",
   "description": "ng2 autocomplete/typeahead component",
   "main": "./bundles/ng2-completer.umd.js",
   "module": "./esm5/ng2-completer.js",
@@ -86,7 +86,7 @@
     "rollup-plugin-sourcemaps": "^0.4.2",
     "rollup-plugin-visualizer": "^0.7.0",
     "rxjs": "~6.6.3",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.4",
     "source-map-loader": "0.2.3",
     "ts-loader": "^4.4.1",
     "tslint": "^5.10.0",
